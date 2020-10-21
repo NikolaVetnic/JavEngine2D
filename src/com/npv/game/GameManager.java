@@ -34,8 +34,6 @@ public class GameManager extends AbstractGame {
 		if (temp > 4) temp = 0;
 	}
 	
-	// TEST TEST
-	
 	float temp = 0;
 
 	@Override
